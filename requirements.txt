@@ -66,3 +66,4 @@ xxhash==3.5.0
 yarl==1.18.3
 pip
 ipykernel
+ipywidgets
