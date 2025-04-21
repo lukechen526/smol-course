@@ -167,7 +167,9 @@ sft_output/
 SmolLM2-FT-MyDataset/
 smol_dpo_output/
 smol_*_output/
-SmolLM2-FT-DPO
+SmolLM2-FT-DPO/
+SmolLM2-FT-ORPO/
+
 
 
 # Wandb output
