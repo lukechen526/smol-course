@@ -169,7 +169,7 @@ smol_dpo_output/
 smol_*_output/
 SmolLM2-FT-DPO/
 SmolLM2-FT-ORPO/
-
+SmolLM2-FT-MyDataset-LoRA/ 
 
 
 # Wandb output
