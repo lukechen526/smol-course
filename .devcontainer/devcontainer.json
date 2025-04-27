@@ -12,7 +12,8 @@
   ],
   "features": {
     "ghcr.io/va-h/devcontainers-features/uv:1": {},
-    "ghcr.io/devcontainers/features/nvidia-cuda:1": {}
+    "ghcr.io/devcontainers/features/nvidia-cuda:1": {},
+    "ghcr.io/devcontainers/features/git-lfs:1": {}
   },
   "customizations": {
     "vscode": {
